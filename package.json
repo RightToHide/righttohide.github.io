@@ -1,0 +1,14 @@
+{
+  "name": "privacy",
+  "version": "0.0.0",
+  "description": "Privacy project for ENGL 109H",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colby Brown",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.7"
+  }
+}
