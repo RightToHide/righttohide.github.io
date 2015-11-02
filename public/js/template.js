@@ -116,7 +116,7 @@
 			trigger: 'hover'
 		});
 	
-		$(".banner-image").backstretch('images/banner.jpg');
+		$(".banner-image").backstretch('public/images/banner.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
